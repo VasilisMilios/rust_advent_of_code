@@ -1,7 +1,7 @@
 mod day2;
 
 fn main() {
-    let filename = "inputs/day2_1.txt";
+    let filename = "inputs/day2_2.txt";
 
-    day2::puzzle1(filename);
+    day2::puzzle2(filename);
 }
